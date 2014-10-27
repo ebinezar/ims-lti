@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/338/trunk/basiclti/php-simple/ims-blti
+END
+blti_util.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/273/trunk/basiclti/php-simple/ims-blti/blti_util.php
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/224/trunk/basiclti/php-simple/ims-blti/LICENSE.txt
+END
+blti.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/273/trunk/basiclti/php-simple/ims-blti/blti.php
+END
+OAuthBody.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/338/trunk/basiclti/php-simple/ims-blti/OAuthBody.php
+END
+OAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/306/trunk/basiclti/php-simple/ims-blti/OAuth.php
+END
+TrivialOAuthDataStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/273/trunk/basiclti/php-simple/ims-blti/TrivialOAuthDataStore.php
+END
